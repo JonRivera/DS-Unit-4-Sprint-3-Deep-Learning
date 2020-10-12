@@ -11,3 +11,7 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+Reading about the history or general intelligence I got a sense of appreciation of how we have acces to amazing computers at a fraction of the cost that was only decades ago. The questions I have are: will we ever get to the point where AI actually takes over and attemps to rule over human society? I know is an extreme point of view, but I am curious wheather we could stop such AI and how would we even know were reaching a potential risk to human civilization?
+
+Do you think we wil ever get to the point where ai is able to create a fake persona on the internet and follow up that fake person with video, audio to the point a human is unable to discern AI from human? Will we every have human-cyborgs walking the earth where they are fully mechanical but on the surface they look and feel human?
